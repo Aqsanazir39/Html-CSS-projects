@@ -40,3 +40,37 @@ height: 320px;
   text-align: end;
   font-size: 30px;
 }
+.about-section{
+  margin-top: 50px;
+}
+.about-section h1{
+  font-size: 50px;
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+.about-section p{
+  font-size: 15px;
+  line-height: 20px;
+  letter-spacing: 1.2px;
+text-align: justify;
+}
+.biography{
+  margin-top: 50px ,0;
+}
+.biography h2{
+margin-bottom: 20px;
+}
+.biography li{
+margin-bottom: 15px;
+}
+.biography li{
+  margin-left: 20px;
+}
+footer{
+  margin-top: 20px;
+
+}
+footer p{
+  text-align: end;
+
+}
